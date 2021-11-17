@@ -29,7 +29,7 @@ Create a Redfish API which provides functionality to backup and restore BMC conf
 
 ## High Level Design Diagram
 
-![alt text](HighLevelDesign.png)
+![alt text](https://github.com/rajatjain92/BackupAndRestoreConfiguration/blob/2313bfdf65a051b10cbdc86a5d920c0760745ef7/HighLevelDesign.PNG)
 
 
 ## High Level Design
@@ -73,7 +73,7 @@ Create a Redfish API which provides functionality to backup and restore BMC conf
 
 ## Restore Configuration
 
-![alt text](Restore.png)
+![alt text](https://github.com/rajatjain92/BackupAndRestoreConfiguration/blob/2313bfdf65a051b10cbdc86a5d920c0760745ef7/Restore.PNG)
 
 ### Flow in Restore Configuration
 
