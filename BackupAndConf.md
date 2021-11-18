@@ -214,3 +214,12 @@ we need to add code in desired service to append property to persistent file.
 ## Alternatives
 
 - one alternative is backup data flash? We care more about settings. Doesn't work for service level backup?
+
+
+```mermaid
+graph LR
+A[Hard edge] -->B(Round edge)
+    B --> C{Decision}
+    C -->|One| D[Result one]
+    C -->|Two| E[Result two]
+```
